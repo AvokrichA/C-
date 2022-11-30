@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\bin\Debug\net6.0\lesson_1_helloConsole.exe
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\bin\Debug\net6.0\lesson_1_helloConsole.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\bin\Debug\net6.0\lesson_1_helloConsole.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\bin\Debug\net6.0\lesson_1_helloConsole.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\bin\Debug\net6.0\lesson_1_helloConsole.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\refint\lesson_1_helloConsole.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\lesson_1_helloConsole.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\obj\Debug\net6.0\ref\lesson_1_helloConsole.dll
