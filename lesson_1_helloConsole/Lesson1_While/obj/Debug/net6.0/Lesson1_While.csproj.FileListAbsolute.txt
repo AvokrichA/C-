@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\bin\Debug\net6.0\Lesson1_While.exe
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\bin\Debug\net6.0\Lesson1_While.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\bin\Debug\net6.0\Lesson1_While.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\bin\Debug\net6.0\Lesson1_While.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\bin\Debug\net6.0\Lesson1_While.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\refint\Lesson1_While.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\Lesson1_While.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_While\obj\Debug\net6.0\ref\Lesson1_While.dll
