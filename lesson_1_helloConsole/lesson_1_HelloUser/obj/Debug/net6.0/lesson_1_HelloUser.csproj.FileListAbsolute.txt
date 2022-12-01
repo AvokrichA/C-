@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\bin\Debug\net6.0\lesson_1_HelloUser.exe
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\bin\Debug\net6.0\lesson_1_HelloUser.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\bin\Debug\net6.0\lesson_1_HelloUser.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\bin\Debug\net6.0\lesson_1_HelloUser.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\bin\Debug\net6.0\lesson_1_HelloUser.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\refint\lesson_1_HelloUser.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\lesson_1_HelloUser.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\lesson_1_HelloUser\obj\Debug\net6.0\ref\lesson_1_HelloUser.dll
