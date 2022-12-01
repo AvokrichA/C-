@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\bin\Debug\net6.0\Lesson1_sum.exe
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\bin\Debug\net6.0\Lesson1_sum.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\bin\Debug\net6.0\Lesson1_sum.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\bin\Debug\net6.0\Lesson1_sum.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\bin\Debug\net6.0\Lesson1_sum.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\refint\Lesson1_sum.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\Lesson1_sum.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_sum\obj\Debug\net6.0\ref\Lesson1_sum.dll
