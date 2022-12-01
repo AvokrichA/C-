@@ -1,0 +1,15 @@
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\bin\Debug\net6.0\Lesson1_ConditionIfElse.exe
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\bin\Debug\net6.0\Lesson1_ConditionIfElse.deps.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\bin\Debug\net6.0\Lesson1_ConditionIfElse.runtimeconfig.json
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\bin\Debug\net6.0\Lesson1_ConditionIfElse.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\bin\Debug\net6.0\Lesson1_ConditionIfElse.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\refint\Lesson1_ConditionIfElse.dll
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.pdb
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\Lesson1_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Pobeda\Desktop\geekbrains\C#_лекции\lesson_1_helloConsole\Lesson1_ConditionIfElse\obj\Debug\net6.0\ref\Lesson1_ConditionIfElse.dll
